@@ -1,4 +1,4 @@
-# sample_weather.py
+# Python sample_weather.py
 
 def get_todays_weather():
     weather = {
